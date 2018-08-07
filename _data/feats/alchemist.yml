@@ -5,3 +5,15 @@
     You have created life via alchemy, though only a simple creature formed
     from alchemical materials and a bit of your own blood. This alchemical familiar assists
     you in your laboratory and adventuring, like any other [familiar](Rules/Familiars).
+
+- title: Alchemical Savant
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    You can identify alchemical items quickly.  When trained in the Arcana skill
+    and attempting to use its Identify Magic action (see page 145) on an alchemical
+    item you hold, you can do so as a single action with the concentrate and manipulate
+    traits instead of taking an hour.  If you have the formula for the item you are
+    attempting to identify, you gain a +2 circumstance bonus to your check and treat
+    any critical failures as failures instead.
+
