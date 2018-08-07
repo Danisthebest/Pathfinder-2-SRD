@@ -17,3 +17,55 @@
     attempting to identify, you gain a +2 circumstance bonus to your check and treat
     any critical failures as failures instead.
 
+- title: Far Lobber
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    You've learned techniques to improve your distance throwing.  When you throw an
+    alchemical bomb, it has a range increment of 30 feet instead of the usual 20 feet.
+
+- title: Quick Bomber
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    You place your bombs in easy-to-reach pouches and learn how to draw them almost without
+    thinking.  When you use the Interact action (see page 307) to draw an alchemical item
+    with the bomb trait, you can draw two bombs instead.  When using Quick Alchemy to create
+    a bomb, you can also draw one other bomb as part of the Quick Alchemy action.
+    
+- title: Smoke Bomb
+  traits: Feat, Alchemist, Additive
+  level: 1
+  action: 1
+  frequency: Once per round
+  trigger: You craft an alchemical bomb using the Quick Alchemy action.
+  description: >
+    You cause the bomb to create a cloud of thick smoke in addition to its normal
+    effects.  When thrown, it creates a cloud of smoke in a 10-foot-radius burst.
+    You can choose which corner of the target's space (or the space in which the bomb lands)
+    the cloud is centered on.  All creatures within that area are concealed (see page 302).
+    The smoke lasts for 1 minute or until dissipated with a strong wind.
+
+- title: Title Here
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    Lorem Ipsum
+    
+- title: Title Here
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    Lorem Ipsum
+    
+- title: Title Here
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    Lorem Ipsum
+    
+- title: Title Here
+  traits: Feat, Alchemist
+  level: 1
+  description: >
+    Lorem Ipsum
